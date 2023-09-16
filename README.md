@@ -11,4 +11,4 @@ Si deseas clonar este repositorio en tu máquina local, puedes seguir estos paso
 3. Ejecuta el siguiente comando:
 
    ```bash
-   git clone https://github.com/
+   git clone 
